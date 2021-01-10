@@ -49,4 +49,10 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+  
+  # Custom CSS
+  css_style = "minimal"
+  
+  # CSS class
+  css_class = ""+++
 ---
