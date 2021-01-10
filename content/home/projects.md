@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Natural Language Processing
+    tag: Natural Language Processing
+  - name: Data Visualization
+    tag: Data Visualization
   - name: Other
     tag: Demo
 
