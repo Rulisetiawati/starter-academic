@@ -1,26 +1,18 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Native Language Classification System
+summary: An end-to-end classification system to distinguish English text written by Lang-8 users. The native languages of the users are a European language (French or Spanish) or East Asian languages(Japanese, Korean, and Mandarin Chinese).
+
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Natural Language Processing
+- Machine Learning
+date: "2020-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/Rulisetiawati/nlp_learner_native_lang_prediction"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
