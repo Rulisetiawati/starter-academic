@@ -31,6 +31,9 @@ feature:
 - icon: database
   icon_pack: fas
   name: SQL
+- icon: globe
+  icon_pack: fas
+  name: Geographic Information System (GIS)
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
