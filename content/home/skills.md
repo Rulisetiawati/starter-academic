@@ -28,6 +28,9 @@ feature:
 - icon: chart-line
   icon_pack: fas
   name: Statistics
+- icon: database
+  icon_pack: fas
+  name: SQL
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
