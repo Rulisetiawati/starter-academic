@@ -1,5 +1,5 @@
 ---
-title: Native Language Classification System
+title: New York City's Citi Bike
 summary: Visualized usage of Citi Bike, a bicycle sharing system in New York City. The project aims to explore total monthly trips, proportion of bike usage based on user type, and comparisons of total trips in winter months vs any other months in 2018. 
 
 tags:
