@@ -7,6 +7,7 @@ tags:
 - Natural Language Processing
 - Machine Learning
 - Data Visualization
+- Sentiment Analysis
 
 date: "2019-12-27T00:00:00Z"
 

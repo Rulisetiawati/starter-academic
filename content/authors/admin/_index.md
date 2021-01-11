@@ -14,7 +14,7 @@ role: Data Analytics Consultant | Master of Data Science student
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia in Vancouver, Canada.
+bio: Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia and a data analytics consultant. She enjoys drawing meaningful insights to solve problems and grow businesses. 
 
 # Interests to show in About widget
 interests:
@@ -69,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Qomaruliati Setiawati (Ruli) is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia in Vancouver, Canada.
+Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia and a data analytics consultant. She enjoys drawing meaningful insights to solve problems and grow businesses.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
