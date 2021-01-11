@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Remote
     date_start: '2020-12-23'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities include:
         * Visualizes data for potential markets in Papua New Guinea and Singapore
