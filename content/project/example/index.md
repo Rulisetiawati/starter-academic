@@ -5,6 +5,7 @@ summary: An end-to-end classification system to distinguish English text written
 tags:
 - Natural Language Processing
 - Machine Learning
+- Collaborative work
 date: "2020-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
