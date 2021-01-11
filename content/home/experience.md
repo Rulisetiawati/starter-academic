@@ -26,7 +26,7 @@ experience:
     company: Wise Air Indonesia
     company_url: ''
     location: Remote
-    date_start: 'Dec 2020'
+    date_start: '2020-12-23'
     date_end: 'Present'
     description: |2-
         Responsibilities include:
@@ -37,8 +37,8 @@ experience:
     company: University of Maine
     company_url: ''
     location: Maine, USA
-    date_start: 'June 2019'
-    date_end: 'Aug 2019'
+    date_start: '2019-06-01'
+    date_end: '2019-08-30'
     description: |2-
         Research fellow for Sustainable Food System Research Collaborative. Responsibilities include:
         * Conducted research on cost of production for Maine’s honey and maple syrup industry for prospective and new producers
