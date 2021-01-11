@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Analytics Consultant
+    company: Wise Air Indonesia
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Remote
+    date_start: 'Dec 2020'
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
+        * Visualizes data for potential markets in Papua New Guinea and Singapore
+        * Provides meaningful insights for business development
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Research Fellow
+    company: University of Maine
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Maine, USA
+    date_start: 'June 2019'
+    date_end: 'Aug 2019'
+    description: |2-
+        Research fellow for Sustainable Food System Research Collaborative. Responsibilities include:
+        * Conducted research on cost of production for Maine’s honey and maple syrup industry for prospective and new producers
+        * Participated in the collaborative research with students from University of Maine and College of the Atlantic
+        * Organized face-to-face and telephone interviews with honey and maple syrup producers
+        * Interpreted and analyzed interview and quantitative data to describe results
+
 ---
