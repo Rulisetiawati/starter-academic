@@ -4,6 +4,7 @@ summary: Visualized usage of Citi Bike, a bicycle sharing system in New York Cit
 
 tags:
 - Data Visualization
+
 date: "2019-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
