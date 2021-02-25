@@ -6,7 +6,7 @@ title: Qomaruliati Setiawati
 superuser: true
 
 # Role/position/tagline
-role: Data Analytics Consultant | Master of Data Science student
+role: Data Scientist | Master of Data Science student
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -14,7 +14,7 @@ role: Data Analytics Consultant | Master of Data Science student
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia and a data analytics consultant. She is also a [Davis United World Scholars](https://www.davisuwcscholars.org/). She enjoys drawing meaningful insights to solve problems and grow businesses. 
+bio: Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia. She is also a [Davis United World Scholars](https://www.davisuwcscholars.org/). She enjoys drawing meaningful insights to solve problems and grow businesses. 
 
 # Interests to show in About widget
 interests:
