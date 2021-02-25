@@ -22,16 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Analytics Consultant
-    company: Wise Air Indonesia
-    company_url: ''
-    location: Remote
+  - title: Data Analyst
+    company: Wise Air
+    company_url: 'https://wiseair.co.id/'
+    location: Remote - Vancover, BC, Canada
     date_start: '2020-12-23'
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Visualizes data for potential markets in Papua New Guinea and Singapore
-        * Provides meaningful insights for business development
+        * Visualizing data from multiple sources for Papua New Guinea project
+        * Building an algorithm for efficient air transportation and logistics services
+        * Analyzing trends and providing meaningful insights for Wise Air’s international expansion strategies
         
   - title: Research Fellow
     company: University of Maine
