@@ -69,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia and a data analytics consultant. She enjoys drawing meaningful insights to solve problems and grow businesses.
+Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia. She is also a [Davis United World Scholars](https://www.davisuwcscholars.org/). She enjoys drawing meaningful insights to solve problems and grow businesses. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
