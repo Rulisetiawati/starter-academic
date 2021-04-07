@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Analyst
+  - title: Data Analyst Intern
     company: Wise Air
     company_url: 'https://wiseair.co.id/'
     location: Remote - Vancover, BC, Canada
@@ -30,16 +30,17 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Visualizing data from multiple sources for Papua New Guinea project
-        * Building an algorithm for efficient air transportation and logistics services
-        * Analyzing trends and providing meaningful insights for Wise Air’s international expansion strategies
+
+        * Collecting, transforming, and visualizing data for the business development team
+		* Optimizing routes and capacity utilization for transportation and logistics services
+		* Analyzing overall helicopter market trends to provide meaningful insights
         
   - title: Research Fellow
     company: University of Maine
     company_url: ''
     location: Maine, USA
     date_start: '2019-06-01'
-    date_end: '2019-08-30'
+    date_end: '2019-09-30'
     description: |2-
         Research fellow for Sustainable Food System Research Collaborative. Responsibilities include:
         * Conducted research on cost of production for Maine’s honey and maple syrup industry for prospective and new producers
