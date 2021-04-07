@@ -30,6 +30,9 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
+        * Collecting, transforming, and visualizing data for the business development team
+        * Optimizing routes and capacity utilization for transportation and logistic services
+        * Analyzing overall helicopter market trends to provide meaningful insights
         
   - title: Research Fellow
     company: University of Maine
