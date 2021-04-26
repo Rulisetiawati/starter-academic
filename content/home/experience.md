@@ -26,7 +26,7 @@ experience:
     company: Wise Air
     company_url: 'https://wiseair.co.id/'
     location: Remote - Vancover, BC, Canada
-    date_start: '2020-12-23'
+    date_start: '2021-01-10'
     date_end: ''
     description: |2-
         Responsibilities include:
