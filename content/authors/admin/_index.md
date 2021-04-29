@@ -14,7 +14,7 @@ role: Data Scientist | Master of Data Science student
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia. She is also a [Davis United World Scholars](https://www.davisuwcscholars.org/). She enjoys drawing meaningful insights to solve problems and grow businesses. 
+bio: Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia. She is also a [Davis United World Scholars](https://www.davisuwcscholars.org/). When she is not coding, she enjoys cooking, running, and playing tennis.
 
 # Interests to show in About widget
 interests:
@@ -69,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia. She is also a [Davis United World Scholar](https://www.davisuwcscholars.org/). She enjoys analyzing data to draw meaningful insights.
+Ruli Setiawati is a Master of Data Science student, specializing in Computational Linguistics, at the University of British Columbia. She is also a [Davis United World Scholar](https://www.davisuwcscholars.org/). When she is not coding, she enjoys cooking, running, and playing tennis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
