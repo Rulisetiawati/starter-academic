@@ -30,8 +30,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Collecting, transforming, and visualizing data for the business development team
-        * Optimizing routes and capacity utilization for transportation and logistic services
+        * Collecting, transforming, and visualizing data using Python for the business development team
         * Analyzing overall helicopter market trends to provide meaningful insights
         
   - title: Research Fellow
