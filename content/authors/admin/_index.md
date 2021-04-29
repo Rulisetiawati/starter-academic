@@ -6,7 +6,7 @@ title: Qomaruliati Setiawati
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist | Master of Data Science student
+role: Master of Data Science - Computational Linguistics Student
 
 # Organizations/Affiliations to show in About widget
 #organizations:
