@@ -16,9 +16,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: Natural Language Processing (NLP)
+- icon: language
   icon_pack: fas
-  name: language
+  name: Natural Language Processing (NLP)
 - icon: r-project
   icon_pack: fab
   name: R
