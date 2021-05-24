@@ -16,9 +16,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: git
-  icon_pack: fab
-  name: Version Control
+- icon: Natural Language Processing (NLP)
+  icon_pack: fas
+  name: language
 - icon: r-project
   icon_pack: fab
   name: R
