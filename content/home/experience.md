@@ -22,17 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Natural Language Processing (NLP) Engineer Intern
+    company: Seasalt AI
+    company_url: 'https://seasalt.ai/'
+    location: Remote - Vancover, BC, Canada
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Building cross-lingual named-entity recognition model
+        
   - title: Data Analyst Intern
     company: Wise Air
     company_url: 'https://wiseair.co.id/'
     location: Remote - Vancover, BC, Canada
     date_start: '2021-01-10'
-    date_end: ''
+    date_end: '2021-04-30'
     description: |2-
         Responsibilities include:
         * Collecting, transforming, and visualizing data using Python for the business development team
         * Analyzing overall helicopter market trends to provide meaningful insights
-        
+     
   - title: Research Fellow
     company: University of Maine
     company_url: ''
